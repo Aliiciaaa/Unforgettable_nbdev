@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# First time using nbdev: what's going on?
+> Trying how nbdev works using Jeremy's tutorial .
 
 
 This file will become your README and also the index of your documentation.
